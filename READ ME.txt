@@ -1,0 +1,9 @@
+Install xampp
+run xampp and start apache and MySQL
+copy all files in c/xampp/htdocs
+go to phpmyadmin and create new database (name it event)
+import event in mysql
+-----------------------------------------------
+Admin info:
+Username:Administrator
+password:jouB2008
